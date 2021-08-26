@@ -1,0 +1,67 @@
+.header{
+    background: rgb(16, 20, 68);
+}
+.logo img{
+    width: 150px;
+}
+.menu{
+    text-align: right;
+   
+}
+.menu ul{
+    margin-bottom: 0;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    margin: 0px 15px;
+    line-height: 95px;
+}
+/* header end */
+/* banner start */
+.banner{
+    background-image: url(./intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 300px 0px;
+    color: white;
+    line-height: 50px;
+}
+.banner p{
+    width: 960px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+/* bammer end */
+/* team section */
+.team{
+    padding: 100px 0px;
+    background: rgb(186, 193, 243);
+}
+.team h1{
+    font-size: 60px;
+    margin-bottom: 65px;
+}
+.team .card{
+background: rgb(186, 193, 243);
+border: none;
+}
+img{
+   max-width: 100%;
+}
+/* end */
+/* about us */
+.about{
+    padding: 100px 0px;
+    background-color: rgb(194, 212, 234);
+}
+.about h1 {
+    margin-bottom: 50px;
+}
